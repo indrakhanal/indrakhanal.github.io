@@ -8,7 +8,7 @@
 
 .widget {
   display: none;
-  width: 350px;
+  width: 300px;
   right: 15px;
   height: 500px;
   bottom: 5%;
@@ -186,10 +186,10 @@ color: #060dcfc7;
   /* display: none; */
   position: fixed;
   padding: 5px;
-  width: 10%;
+  width: 130px;
   bottom: 0;
   right: 0;
-  cursor: pointer;
+  /* cursor: pointer; */
 }
 
 /* css for dropdown menu of the bot */
