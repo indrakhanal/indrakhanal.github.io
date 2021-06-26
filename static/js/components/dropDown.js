@@ -1,8 +1,9 @@
 /**
  *  renders the dropdown message and
  *  handles the user selection
- * @param {Array} drop_down_data json array
+ * json array
  */
+ @param {Array} drop_down_data 
 function renderDropDwon(drop_down_data) {
     let drop_down_options = "";
     for (let i = 0; i < drop_down_data.length; i += 1) {
